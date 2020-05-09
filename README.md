@@ -67,3 +67,11 @@ To show different plots to the user to analyse the spread of Covid-19.
 * Vs Plot
     
     ![VsPlot](https://github.com/Ugtan/Covid19-telegram-bot/blob/master/images/vsplot.png)
+
+## To Do
+
+* Show top 10 countries with the most number of cases
+* Save user subscription and send message
+* Last 10 days stats for a country
+* Compare between two countries
+* Add bar plots
